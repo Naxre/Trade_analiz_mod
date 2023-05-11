@@ -31,8 +31,8 @@
 		<!-- ui -->
 		<t id="101">Ticaret Analizi</t>
 		<!-- categories -->
-		<t id="1001">Madencilik</t>
-		<t id="1002">Alımlar</t>
+		<t id="1001">Madenci</t>
+		<t id="1002">Alım</t>
 		<t id="1003">Satış</t>
 		<t id="1004">Diğer Fraksiyonlardan</t>
 		<t id="1005">Fraksiyonundan</t>
@@ -41,8 +41,8 @@
 		<t id="1008">Fraksiyonuna</t>
 		<t id="1009">Fraksiyonlara</t>
 		<t id="1010">Filtreler:</t>
-		<t id="1011">Alımlar &#38; Satışlar</t>
-		<t id="1012">Alımlar, Satışlar &#38; Madencilikten</t>
+		<t id="1011">Alım &#38; Satış</t>
+		<t id="1012">Alım, Satış &#38; Madenci</t>
 		<t id="1013">Diğer Fraksiyonların İç/Dış Ticareti</t>
 		<t id="1014">Fraksiyonun İç/Dış Ticareti</t>
 		<t id="1015">Fraksiyonların İç/Dış Ticareti</t>
@@ -59,22 +59,22 @@
 		<t id="3001">Ticaret Partneri</t>
 		<t id="3002">%s(sector name) doğru mesafe</t>
 		<t id="3003">Ticaretler</t>
-		<t id="3004">Toplam units.</t>
+		<t id="3004">Toplam Birim</t>
 		<t id="3005">Toplam Cr.</t>
-		<t id="3006">birimler &#216; ticaret</t>
+		<t id="3006">birim &#216; ticaret</t>
 		<t id="3007">Cr. &#216; ticaret</t> 
 		<t id="3008">Mazleme</t>
 		<t id="3009">Sektör</t>
 		<t id="3010">Gemi</t>
 		<t id="3011">Toplam</t>
 		<!-- misc -->
-		<t id="10001">%s(gate distance) \(%s(sector)\)</t>
+		<t id="10001">%s(sector) \(%s(gate distance)\)</t>
 		<t id="10002">artık yok</t>
 		<t id="10003">Ticaret Analizi Yükleniyor ...</t>
 		<t id="10004">Bu kategori için işlem yok.</t>
 		<t id="10005">Bu tüccar için analitik yok (yet).</t>
 		<t id="10006">(ship trader with no station assignment)serbest ticaret</t>
 		<t id="10007">(no data recorded)bilinmeyen</t>
-		<t id="10008">%s(ware or ship name) \(Units.: %s(count)\)</t>
+		<t id="10008">%s(ware or ship name) \(Birim: %s(count)\)</t>
 	</page>
 </language>
