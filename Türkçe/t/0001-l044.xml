@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- turkish -->
+<language>
+	<!-- "kuertee accessibility features" = "kta" = "11 20 1" = "11201" in https://www.boxentriq.com/code-breaking/letters-to-numbers -->
+	<page id="11201" voice="no">
+		<t id="1">kuertee: UI: Ticaret Analizi</t>
+		<t id="8">İstasyon ön ayarları</t>
+		<t id="9">Ön ayarlardan birine tıklayarak bu istasyonun davranışını ayarlayın.Bir ön ayar, bu istasyonun fiyatlarını ve üretim kısıtlamalarını ve ticaret mallarını belirleyecektir.</t>
+		<t id="10">Fabrika</t>
+		<t id="11">Alış fiyatı: %s. Satış fiyatı: %s. Fabrikalar dağıtım merkezlerimize, tedarik depolarımıza ve fabrika satış noktalarımıza satılıyor.</t>
+		<t id="12">Satın Al: %s. Sat: %s, sınırlı.</t>
+		<t id="13">Fabrika&apos;nın önceden kayıtlı ayarlarını ayarlayın</t>
+		<t id="20">Dağıtım merkezi</t>
+		<t id="21">Alış fiyatı: %s. Satış fiyatı: %s. Dağıtım merkezleri fabrikalarımızdan satın alıyor.Dağıtım merkezleri tedarik depolarımıza, fabrika satış noktalarımıza, ticaret istasyonlarımıza, istasyon projelerimize ve inşaat projelerimize satmaktadır.</t>
+		<t id="22">Satın Al: %s, sınırlı. Sat: %s, sınırlı.</t>
+		<t id="23">Dağıtım Merkezi&apos;nin önceden kayıtlı ayarlarını ayarlayın</t>
+		<t id="30">Tedarik Deposu</t>
+		<t id="31">Alış fiyatı: %s. Satış fiyatı: %s. Tedarik Depoları Fabrikalarımızdan ve Dağıtım Merkezlerimizden alım yapar. İkmal Depoları istasyon projelerimize ve inşaat projelerimize satış yapar.</t>
+		<t id="32">Satın Al: %s, sınırlı. Sat: %s, sınırlı.</t>
+		<t id="33">Tedarik Deposu&apos;nun önceden kayıtlı ayarlarını ayarlayın</t>
+		<t id="40">Fabrika Satış Mağazası</t>
+		<t id="41">Alış fiyatı: %s. Satış fiyatı: %s. Fabrika Satış Mağazaları Fabrikalarımızdan ve Dağıtım Merkezlerimizden alım yapar. Fabrika Satış Mağazaları tüm gruplara, istasyon projelerimize ve inşaat projelerimize satış yapar.</t>
+		<t id="42">Satın Al: %s, sınırlı. Sat: %s, sınırsız.</t>
+		<t id="43">Fabrika Satış Mağazası&apos;nın önceden kayıtlı ayarlarını ayarlayın</t>
+		<t id="50">Ticaret istasyonu</t>
+		<t id="51">Alış fiyatı: %s. Satış fiyatı: %s. Ticaret İstasyonları herkesten alır ve herkese satar.</t>
+		<t id="52">Satın Al: %s, sınırsız. Sat: %s, sınırsız.</t>
+		<t id="53">Ticaret istasyonu&apos;nun önceden kayıtlı ayarlarını ayarlayın</t>
+		<t id="54">devre dışı</t>
+		<t id="55">otomatik</t>
+		<!-- ui -->
+		<t id="101">Ticaret Analizi</t>
+		<!-- categories -->
+		<t id="1001">Madencilik</t>
+		<t id="1002">Alımlar</t>
+		<t id="1003">Satış</t>
+		<t id="1004">Diğer Fraksiyonlardan</t>
+		<t id="1005">Fraksiyonundan</t>
+		<t id="1006">Fraksiyondan</t>
+		<t id="1007">Diğer Fraksiyonlara</t>
+		<t id="1008">Fraksiyonuna</t>
+		<t id="1009">Fraksiyonlara</t>
+		<t id="1010">Filtreler:</t>
+		<t id="1011">Alımlar &#38; Satışlar</t>
+		<t id="1012">Alımlar, Satışlar &#38; Madencilikten</t>
+		<t id="1013">Diğer Fraksiyonların İç/Dış Ticareti</t>
+		<t id="1014">Fraksiyonun İç/Dış Ticareti</t>
+		<t id="1015">Fraksiyonların İç/Dış Ticareti</t>
+		<t id="1016">%s(faction) bulunan</t>
+		<t id="1017">%s(faction) doğru</t>
+		<t id="1018">İç/Dış %s(faction)</t>
+		<!-- modes -->
+		<t id="2001">Toplamlara Göre</t>
+		<t id="2002">Herhangi bir Malzemeye Göre</t>
+		<t id="2003">Ticaret Gemisine Göre</t>
+		<t id="2004">Birlikte ticaretler yapmak:</t>
+		<t id="2005">%s(ware name) Göre</t>
+		<!-- columns -->
+		<t id="3001">Ticaret Partneri</t>
+		<t id="3002">%s(sector name) doğru mesafe</t>
+		<t id="3003">Ticaretler</t>
+		<t id="3004">Toplam units.</t>
+		<t id="3005">Toplam Cr.</t>
+		<t id="3006">birimler &#216; ticaret</t>
+		<t id="3007">Cr. &#216; ticaret</t> 
+		<t id="3008">Mazleme</t>
+		<t id="3009">Sektör</t>
+		<t id="3010">Gemi</t>
+		<t id="3011">Toplam</t>
+		<!-- misc -->
+		<t id="10001">%s(gate distance) \(%s(sector)\)</t>
+		<t id="10002">artık yok</t>
+		<t id="10003">Ticaret Analizi Yükleniyor ...</t>
+		<t id="10004">Bu kategori için işlem yok.</t>
+		<t id="10005">Bu tüccar için analitik yok (yet).</t>
+		<t id="10006">(ship trader with no station assignment)serbest ticaret</t>
+		<t id="10007">(no data recorded)bilinmeyen</t>
+		<t id="10008">%s(ware or ship name) \(Units.: %s(count)\)</t>
+	</page>
+</language>
